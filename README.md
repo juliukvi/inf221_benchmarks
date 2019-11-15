@@ -1,1 +1,1 @@
-# inf221benchmarks
+inf221bench
