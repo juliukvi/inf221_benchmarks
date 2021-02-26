@@ -1,1 +1,2 @@
-inf221bench
+inf221
+runtime benchmarks on common sorting algorithms.
